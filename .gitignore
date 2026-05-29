@@ -1,0 +1,22 @@
+# Personal coursework files
+*.pdf
+*.docx
+*.pptx
+*.xlsx
+*.csv
+*.ipynb
+data/
+outputs/
+report/
+references/
+
+# Personal information
+*P162614*
+*ZHANG*
+*CHENCHUAN*
+Assignment*
+
+# System files
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
